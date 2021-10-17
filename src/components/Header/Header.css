@@ -1,0 +1,21 @@
+.header-container{
+    background-color: #E7E8E8;
+    margin: 0;
+    align-items: center;
+}
+.header-logo{
+    width: 150px;
+}
+.nav-bar{
+    
+    background-color: darkgrey;
+    /* padding: 10px; */
+}
+.nav-bar a{
+    text-decoration: none;
+    padding: 10px 30px;
+    color: black;
+}
+.nav-bar a:hover{
+    opacity: .9;
+}

@@ -1,0 +1,122 @@
+[
+    {
+      "id":1,
+      "name":"Introduction to Machine Learning",
+      "img":"http://placehold.it/100x100",
+      "description":"Introductory Course. This course is basically designed for newbie students. Fundamental topics are covered in here through easy examples.",
+      "instructor":"James Bob",
+      "languages" : ["English","Spanish","Hindi"],
+      "price":5,
+      "isPopular": 1
+    },
+    {
+        "id":2,
+        "name":"Introduction to Big Data",
+        "img":"http://placehold.it/100x100",
+        "description":"Introductory Course. This course is basically designed for newbie students. Fundamental topics are covered in here through easy examples.",
+        "instructor":"Kartik Roy",
+        "languages" : ["English","Spanish","Hindi"],
+        "price":5,
+        "isPopular": 0
+      },
+      {
+        "id":3,
+        "name":"Introduction to Philosophy",
+        "img":"http://placehold.it/100x100",
+        "description":"Introductory Course. This course is basically designed for newbie students. Fundamental topics are covered in here through easy examples.",
+        "instructor":"R. K. Sharma",
+        "languages" : ["English","Spanish","Hindi"],
+        "price":6,
+        "isPopular": 0
+      },
+      {
+        "id":4,
+        "name":"Mastering Python",
+        "img":"http://placehold.it/100x100",
+        "description":"Advance Level Course. This course is basically designed for intermediate level students who has already gained the fundamental knowledge of following field.",
+        "instructor":"James Bob",
+        "languages" : ["English","Spanish","Hindi"],
+        "price":15,
+        "isPopular": 1
+      },
+      {
+        "id":5,
+        "name":"Mastering C++",
+        "img":"http://placehold.it/100x100",
+        "description":"Advance Level Course. This course is basically designed for intermediate level students who has already gained the fundamental knowledge of following field.",
+        "instructor":"Sid Harrington",
+        "languages" : ["English","Spanish","Hindi"],
+        "price":12,
+        "isPopular": 1
+      },
+      {
+        "id":6,
+        "name":"Introduction to Bangla Language",
+        "img":"http://placehold.it/100x100",
+        "description":"Introductory Course. This course is basically designed for newbie students. Fundamental topics are covered in here through easy examples.",
+        "instructor":"Tushi Roy",
+        "languages" : ["English","Spanish","Hindi"],
+        "price":5,
+        "isPopular": 0
+      },
+      {
+        "id":7,
+        "name":"Introduction to Criminology",
+        "img":"http://placehold.it/100x100",
+        "description":"Introductory Course. This course is basically designed for newbie students. Fundamental topics are covered in here through easy examples.",
+        "instructor":"Major (Ret.) Kim-un-kin",
+        "languages" : ["English","Spanish","Hindi"],
+        "price":5,    
+        "isPopular": 0    
+      },
+      {
+          "id":8,
+          "name":"Introduction to Chemical Engineering",
+          "img":"http://placehold.it/100x100",
+          "description":"Introductory Course. This course is basically designed for newbie students. Fundamental topics are covered in here through easy examples.",
+          "instructor":"DK John",
+          "languages" : ["English","Spanish","Hindi"],
+          "price":5,
+          "isPopular": 0
+        },
+        {
+          "id":9,
+          "name":"History of Bangladesh",
+          "img":"http://placehold.it/100x100",
+          "description":"Introductory Course. This course is basically designed for newbie students. Fundamental topics are covered in here through easy examples.",
+          "instructor":"Prof. Sheikh Anower Bhuiyan",
+          "languages" : ["English","Spanish","Hindi","Bangla"],
+          "price":5,
+          "isPopular": 0
+        },
+        {
+          "id":10,
+          "name":"Introduction to Import-Export Startup",
+          "img":"http://placehold.it/100x100",
+          "description":"Introductory Course. This course is basically designed for newbie students. Fundamental topics are covered in here through easy examples.",
+          "instructor":"Abul Kasem",
+          "languages" : ["English","Spanish","Hindi","Bangla"],
+          "price":7,
+          "isPopular": 0
+        },
+        {
+          "id":11,
+          "name":"Mastering Photography",
+          "img":"http://placehold.it/100x100",
+          "description":"Introductory Course. This course is basically designed for newbie students. Fundamental topics are covered in here through easy examples.",
+          "instructor":"Mark S",
+          "languages" : ["English","Spanish","Hindi"],
+          "price":15,
+          "isPopular": 1
+        },
+        {
+          "id":12,
+          "name":"Introduction to Politics",
+          "img":"http://placehold.it/100x100",
+          "description":"Introductory Course. This course is basically designed for newbie students. Fundamental topics are covered in here through easy examples.",
+          "instructor":"Ross D'Souza",
+          "languages" : ["English","Spanish","Hindi"],
+          "price":5,
+          "isPopular": 0
+        }      
+  ]
