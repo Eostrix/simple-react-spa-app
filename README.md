@@ -8,3 +8,6 @@
   * Plain CSS
 
 #### Live Link: https://vdemy-online.netlify.app/
+
+## To run the project - just build the app.
+  * `npm run build`
